@@ -1,0 +1,7 @@
+ssh -i /Users/demonxy468/Desktop/Spark/aws-credential/EMR-keypair.pem hadoop@ec2-34-201-172-245.compute-1.amazonaws.com
+
+
+sudo pip install pandas;
+sudo pip install boto3;
+
+sudo stop zeppelin; sudo start zeppelin;
