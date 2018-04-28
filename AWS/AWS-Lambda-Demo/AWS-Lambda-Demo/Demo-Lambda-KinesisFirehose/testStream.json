@@ -1,0 +1,9 @@
+{
+	"Records":[
+		{
+		  "recordId":"1",
+		  "data": {"ticker_symbol":"NFLX","sector":"TECHNOLOGY","change":1.17,"price":100.17},
+		  "result": "ok"
+		}	
+	]
+}
